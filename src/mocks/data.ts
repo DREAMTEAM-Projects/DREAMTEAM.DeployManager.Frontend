@@ -1,8 +1,8 @@
 export const mockTableData = [
   {
     id: 1,
-    project: 'Cockpit',
-    team: 'Clinica',
+    project: 'Project',
+    team: 'Backend',
     title: 'Melhoria no fluxo',
     tags: ['Feature', 'Frontend'],
     author: 'Geopalhetas',
@@ -18,8 +18,8 @@ export const mockTableData = [
   },
   {
     id: 2,
-    project: 'Cockpit',
-    team: 'Onco',
+    project: 'Project',
+    team: 'Front',
     title: 'Melhoria no Registro',
     tags: ['Incident', 'Bug'],
     author: 'Gabriel Molezini',
